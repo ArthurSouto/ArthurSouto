@@ -6,7 +6,6 @@
 - 🎮 Adoro de video games, sempre que tenho tempo livre gosto de jogar!
 - 🎟 gosto de assitir filmes, meus filme favoritos são: Poderoso chefão, carros e gente grande!
 - 🧘‍♂️ Sou calmo e tranquilo, procuro sempre me manter longe de qualquer problema!
-- 👮‍♂️ Meu sonho é algum dia me tornar policial e trabalhar na area da programação !
 - 🎧 Amo ouvir música. Meus gêneros preferidos são: mbp, rap, pagode, trap, sertanejo e rock!
 
 ### Ferramentas e Tecnologias que mais domino:
