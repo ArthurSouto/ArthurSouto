@@ -1,5 +1,5 @@
 ### Aoba, me chamo Arthur👋
-### Seja bem vindo ao meu perfil do github. Tenho 17 anos, atualmente estou no 3° anos do Ensino Médio.
+### Seja bem vindo ao meu perfil do github. Tenho 18 anos, atualmente estou cursando Analise e desenvolvimento de sistemas no 2 semestre.
 
 ### Sobre mim:
 
